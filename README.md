@@ -9,7 +9,7 @@ Files:
 
 1. data1_classification.ipynb - python notebook 
 2. app.py - flask file
-3. final_intents_data.json - dataset
+3. mhc_intents_data_2.json - dataset
 4. final_intents_data.pkl - tags pickle to use in flask file
 5. my_model.h5 - weights downloaded
-6. requirements.txt - versions of libraries used 
+6. gui.py -  gui 
