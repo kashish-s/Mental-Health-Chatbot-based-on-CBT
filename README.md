@@ -7,7 +7,7 @@ Weights for a high accuracy have been downloaded which are then used in the flas
 
 Files:
 
-1. Chatbot.ipynb - python notebook 
+1. data1_classification.ipynb - python notebook 
 2. app.py - flask file
 3. final_intents_data.json - dataset
 4. final_intents_data.pkl - tags pickle to use in flask file
